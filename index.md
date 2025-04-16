@@ -32,6 +32,6 @@ Tailscale on Windows 10 & 11 runs in the background. You can find it on the righ
 
 ## Core services
 
-Here are links and buttons to go to the core services of The Ivory Tower:
+Here are links and buttons to go to the core services of The Ivory Tower (These don't work without Tailscale being connected!):
 
-[![button](https://img.shields.io/badge/Go_to_Example-red?style=for-the-badge)](https://example.com)
+[![Nextcloud](https://img.shields.io/badge/Nextcloud-8B0000?style=for-the-badge)](https://cloud.coho-polaris.ts.net)
