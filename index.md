@@ -34,6 +34,6 @@ Tailscale on Windows 10 & 11 runs in the background. You can find it on the righ
 
 Here are links and buttons to go to the core services of The Ivory Tower:
 
-<a href="https://example.com" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#007BFF; color:#fff; text-decoration:none; border-radius:5px;">
+<a href="https://example.com" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#dc3545; color:#fff; text-decoration:none; border-radius:5px;">
   Go to Example
 </a>
